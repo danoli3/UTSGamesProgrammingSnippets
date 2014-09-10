@@ -20,3 +20,8 @@ https://mac.github.com/
 
 ## Configuring Git with a gitignore (to not commit certain files)
 Use this gitignore: https://www.gitignore.io/api/visualstudio and add / remove any parts of the gitignore as needed.
+
+
+
+
+# THIS IS EXPERIMENTAL!!!
